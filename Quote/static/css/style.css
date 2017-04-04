@@ -1,0 +1,14 @@
+#quoteText{
+  font-family: 'Pacifico', 'Playfair Display', monospace;
+  font-size: 80px;
+  /*color: white;*/
+}
+
+#quoteAuthor{
+  font-family: 'Playfair Display', serif;
+  font-size: 40px;
+}
+
+body{
+  text-align: center;
+}
