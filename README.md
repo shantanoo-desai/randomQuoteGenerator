@@ -28,3 +28,7 @@ which should install __Flask__ and some dependencies for you and finally
 This will run a webserver on your `localhost` on port __30002__. In a web-browser:
 
     http://localhost:30002
+
+### License
+
+Template available under __MIT License 2017__ and also usable on [CodePen.io](http://codepen.io/shandesai/full/aJMKdN/)
